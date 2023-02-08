@@ -1,2 +1,2 @@
 # BBC_News_Classification
-I have done this classification using NMF
+I have done this classification using matrix factorization to predict the category and I had done this model for a Kaggle competition.
